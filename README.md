@@ -35,6 +35,4 @@ Laugarren eginkizunean, aktore eta pelikula bakoitzeko *PageRank* balioekin lan 
 
 *PageRank* bilaketa-tresna batek indexatutako dokumentuen (edo web orrialdeen) garrantziari balioa emateko erabiltzen den algoritmo sorta da. Eginkizun honetarako bi ataza ditugu. Hasteko, *PageRank* guztien kalkulua egitea da beharrezkoa. Ondoren, aktore edo pelikula baten izena emanda, bere pelikula edo aktore zerrenda, hurrenez hurren, inprimatuko du. Zerrenda hura ordenatuta egongo da, *PageRank*-aren arabera.
 
----
 >Gure (4.) praktikaren *main* metodoa *PraktikaHasieratu* klasean dago. Hala ere, interaktiboa den *main* bat jarri dugu (*Main_Interaktiboa* klasean), non lehen, hirugarren eta laugarren eginkizunen atazak dauden, egiazko kudeaketa programa bat balitz bezala.
----
